@@ -35,16 +35,18 @@ It shows an instant preview of the actual website and can be shared across job a
  
 ## 📎 Links
 
-- 🔗 [Live Website (if deployed)](https://your-deployed-link.com) <!-- Add link if hosted -->
-- 📁 [GitHub Repository](https://github.com/SHEHROZ-BIBI5/portfolio-site)
+ - 📁 [GitHub Repository](https://github.com/SHEHROZ-BIBI5/portfolio-site)
 - 📄 [Resume Download](./public/resume.pdf)
 
 ---
 
 ## 🙋‍♀️ About Me
 
-I'm Shehroz Bibi, a self-taught Full Stack Developer from Sialkot, Pakistan.  
-I transitioned from physical education into tech through dedication and hands-on learning. I now work remotely, build real-world apps, and continue to grow each day to honor my father's name and support my future.
+I'm Shehroz Bibi, a self-taught Full Stack Developer from Sialkot, Pakistan.
+With a strong commitment to continuous learning and problem-solving, I've built multiple real-world applications using React.js and Node.js. My journey into tech was driven by passion and persistence — and today, I’m proud to work remotely, build impactful software, and grow as a developer every single day.
+
+I strive to contribute to meaningful projects, improve my craft, and make my family proud by delivering real value through code.
+
 
 ---
 
